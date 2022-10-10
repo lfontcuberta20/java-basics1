@@ -8,5 +8,5 @@
 Resultado 136
 Resultado Integer
 
-**Respuesta
+**Respuesta**
 El Resultado es un número fuera de la variable byte entonces tendría que ser un tipo int
