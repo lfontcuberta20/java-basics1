@@ -4,3 +4,6 @@
     System.out.printf("Resultado %d%n",suma)
 
 ```
+Resultado 136
+
+El Resultado es un número fuera de la variable byte entonces tendría que ser un tipo int
