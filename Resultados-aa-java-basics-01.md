@@ -6,7 +6,9 @@
 
 ```
 Resultado 136
+
 Resultado Integer
 
-**Respuesta**\n
+##Respuesta
+
 El Resultado es un número fuera de la variable byte entonces tendría que ser un tipo int
