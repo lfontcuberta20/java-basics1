@@ -13,7 +13,7 @@ Tipo Integer
 
 ### Respuesta
 
-El Resultado es un número fuera de la variable byte entonces tendría que ser un tipo int.
+El Resultado es un número fuera de la variable byte entonces tendría que ser un tipo int. Si lo hacemos sin poner una variable tendremos una salida de tipo integer igualmente.
 
 ## Ejercicio 2
 
