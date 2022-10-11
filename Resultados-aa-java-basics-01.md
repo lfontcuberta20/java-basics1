@@ -101,14 +101,15 @@ Como double es un tipo de dato que ocupa más espacio, el integer se adapta a é
 
 ```java
     char c = 'a';
-    int c1 = 1;
-    System.out.printf("Resultado %c y %d%n", c, c1);
+    char c1 = 1;
+    char c2 = (char)(c + c1);
+    System.out.printf("Resultado %c%n", c2);
 ```
-Resultado a y 1
+Resultado b
 
 ### Respuesta
 
-Por lo que analizé no podemos poner dos tipos de datos en secuéncia en la misma línea. La solución es básicamente separar ambas variables, y además ponerle a la variable c1 su tipo de dato.
+Para poder hacer la suma de ambos tenemos que forzar el tipo de dato a char.
 
 ## Ejercicio 9
 
